@@ -1,0 +1,16 @@
+class Array{
+public static void main(String[] args){
+int n[] = new int[10];
+n[0]=0;
+n[1]=1;
+n[2]=4;
+n[3]=9;
+n[4]=16;
+n[5]=25;
+n[6]=36;
+n[7]=49;
+n[8]=64;
+n[9]=81;
+System.out.println(n[7]);
+}
+}
