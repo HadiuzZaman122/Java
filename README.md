@@ -6,3 +6,5 @@
 6. Age.java is for prompt user to enter birth year and current year and then calculate age.
 7. AreaCircle.java is for takinf radius as input and then print the area of a circle (pi value is stored in a variable).
 8. Marks.java is for taking Marks of 3 subject as input and then prints Total and Average mark.
+9. ArrayInputSumAvg.java is for taking size and elements from user , display the elements , Sum of the Elements and Average of the Elements.
+10. ArrayEvenOdd.java is for taking size and elements from user and count the number of Even and Odd numbers.
