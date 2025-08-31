@@ -8,3 +8,4 @@
 8. Marks.java is for taking Marks of 3 subject as input and then prints Total and Average mark.
 9. ArrayInputSumAvg.java is for taking size and elements from user , display the elements , Sum of the Elements and Average of the Elements.
 10. ArrayEvenOdd.java is for taking size and elements from user and count the number of Even and Odd numbers.
+11. ArraySearch.java is for Searching a element from the Array and print the index number.
