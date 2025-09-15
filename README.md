@@ -15,7 +15,7 @@
 15. Marks.java is for taking Marks of 3 subject as input from user and then prints Total and Average mark.
 16. Positive.java is Code for checking whether the entered number is positive or negative.
 17. PositiveNegativeZero.java is for determinig wheater the entered number is Positive or Negative or Zero using Conditional Operation.
-18. RelationalOperation.java is for relational operations suc as Equal to (==), Not Equal to(!=), Greater than (>), Less than (<) .
+18. RelationalOperation.java is for relational operations such as Equal to (==), Not Equal to(!=), Greater than (>), Less than (<) .
 19. Square.java is for Squaring a Number entered by an user.
 20. StingFirstLast.java is for taking a string as inpt from user and print its Fisrt and Last letters.
 21. StringConvert.java is for taking string as input from user then replace all "a" from the user to "o".
