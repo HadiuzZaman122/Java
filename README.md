@@ -14,3 +14,10 @@
 14. StingFirstLast.java is for taking a string as inpt from user and print its Fisrt and Last letters.
 15. StringReverse.java is for taking string as input from user then reverse it and print it and then checks for palindrome or not.
 16. StringConvert.java is for taking string as input from user then replace all "a" from the user to "o".
+17. ArithmeticOperation.java is for performing Arithmatic Operations such as Addition(+), Substraction(-),Multiplication(*),Division(/).
+18. BitwiseOperation.java is for performing Bitwise Operations such as AND(&), OR(|),XOR(^),NOT(~), Left Shift(<<), Right Shift(>>), Unsigned Shift(<<<,>>>) .
+19. InceDecreOperation.java is for performing Increamental & Decreamental operations (++,--) .
+20. RelationalOperation.java is for relational operations suc as Equal to (==), Not Equal to(!=), Greater than (>), Less than (<) .
+21. ConditionalOperation.java is for performing of an example of Ternary Operator for Descision Making ( condition? True:False) .
+22. GradeExample.java is for Print result using Conditional Operation.
+23. PositiveNegativeZero.java is for determinig wheater the entered number is Positive or Negative or Zero using Conditional Operation.
