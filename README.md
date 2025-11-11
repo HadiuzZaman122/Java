@@ -1,4 +1,4 @@
-#HADIUZ ZAMAN
+#Hadiuz Zaman  
 #ENG24AM0183
 
 1. Age.java is for prompt user to enter birth year and current year and then calculate age.
