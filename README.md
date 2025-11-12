@@ -1,5 +1,5 @@
-#Hadiuz Zaman  
-#ENG24AM0183
+Hadiuz Zaman  
+ENG24AM0183
 
 1. Age.java is for prompt user to enter birth year and current year and then calculate age.
 2. AreaCircle.java is for takinf radius as input from user and then print the area of a circle (pi value is stored in a variable).
