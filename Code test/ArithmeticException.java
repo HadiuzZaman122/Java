@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DivideError {
+public class ArithmeticException {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number:");
@@ -20,3 +20,4 @@ public class DivideError {
     }
 
 }
+
