@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Divide {
+public class DivideError {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number:");
@@ -18,4 +18,5 @@ public class Divide {
 
         sc.close();
     }
+
 }
